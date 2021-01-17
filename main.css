@@ -1,0 +1,195 @@
+
+/* LA BANIERE*/
+
+.header {
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    background-color: rgba(0, 0, 0, 0);
+    top: 0;
+    position: fixed;
+}
+
+.header .header-logo {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    margin-left: 30px;
+}
+
+.header .header-menu {
+    float: right;
+    margin-right: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* LE MENU DEROULANT */
+
+.menu_deroulant .dropdown {
+    margin-right: 20px;
+    float: left;
+}
+
+.banner {
+    margin-top: -20px;
+    margin: auto;
+}
+
+.banner .banner-image {
+    position: fixed;
+    z-index: -9000;
+}
+
+.banner .banner-content {
+    z-index: -500;
+    -webkit-text-stroke: 0.5px #1d1d1d;
+    font-family: 'Roboto', sans-serif;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    top: 20%;
+    color: rgb(238, 238, 238)
+}
+
+.banner .banner-content .test {
+    position: absolute;
+    right: 40%;
+}
+
+.banner .banner-content .Suivant {
+    position: absolute;
+    top: 150%;
+    right: 44%;
+}
+
+tr,
+th {
+    color: blanchedalmond;
+}
+
+td,
+th {
+    border: 3px solid black;
+    color: blanchedalmond;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+tr {
+    text-align: center;
+}
+
+.resultat_calcul {
+    position: fixed;
+    top: 40%;
+    right: 43%;
+}
+
+.tableau_S1ex1 {
+    position: fixed;
+    top: 50%;
+    left: 44.5%;
+
+}
+
+.tableau_S1ex3 {
+    color: white;
+    position: absolute;
+    top: 40%;
+    right: 44%;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.tableau_S1ex2 {
+    position: absolute;
+    top: 40%;
+    right: 44%;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.mine {
+    color: white;
+    -webkit-text-stroke: 0.5px #000000;
+    position: absolute;
+    top: 30%;
+    right: 35%;
+}
+
+.tableau_S2ex1 {
+    position: absolute;
+    top: 40%;
+    right: 44%;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.tableau_S2ex2,
+.tableau_S2ex3,
+.tableau_S2ex4 {
+    position: fixed;
+    top: 40%;
+    right: 47%;
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+}
+
+.blackiconcolor1 {
+    color: rgb(221, 221, 221);
+    border: 1px solid black;
+}
+
+.blackiconcolor {
+    color: rgb(255, 0, 0);
+    border: 1px solid black;
+}
+
+.calcul {
+    color: rgb(241, 241, 241);
+}
+
+.S3ex1 {
+    color: white;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 30%;
+    right: 35%;
+
+}
+
+
+.S3ex3 {
+    color: white;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 30%;
+    right: 35%;
+}
+
+.S3ex4 {
+    color: white;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 30%;
+    right: 35%;
+}
+
+.ajout {
+    color: white;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 30%;
+    right: 45%;
+
+}
+
+.editer {
+    color: white;
+    -webkit-text-stroke: 0.5px #000000;
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    top: 30%;
+    right: 45%;
+}
